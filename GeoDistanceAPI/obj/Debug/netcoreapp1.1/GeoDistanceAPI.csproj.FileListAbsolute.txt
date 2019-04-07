@@ -1,0 +1,9 @@
+C:\Users\Abubaker\Google Drive\Practice\GeoDistanceAPI\GeoDistanceAPI\bin\Debug\netcoreapp1.1\GeoDistanceAPI.deps.json
+C:\Users\Abubaker\Google Drive\Practice\GeoDistanceAPI\GeoDistanceAPI\bin\Debug\netcoreapp1.1\GeoDistanceAPI.runtimeconfig.json
+C:\Users\Abubaker\Google Drive\Practice\GeoDistanceAPI\GeoDistanceAPI\bin\Debug\netcoreapp1.1\GeoDistanceAPI.runtimeconfig.dev.json
+C:\Users\Abubaker\Google Drive\Practice\GeoDistanceAPI\GeoDistanceAPI\bin\Debug\netcoreapp1.1\GeoDistanceAPI.dll
+C:\Users\Abubaker\Google Drive\Practice\GeoDistanceAPI\GeoDistanceAPI\bin\Debug\netcoreapp1.1\GeoDistanceAPI.pdb
+C:\Users\Abubaker\Google Drive\Practice\GeoDistanceAPI\GeoDistanceAPI\obj\Debug\netcoreapp1.1\GeoDistanceAPI.AssemblyInfo.cs
+C:\Users\Abubaker\Google Drive\Practice\GeoDistanceAPI\GeoDistanceAPI\obj\Debug\netcoreapp1.1\GeoDistanceAPI.dll
+C:\Users\Abubaker\Google Drive\Practice\GeoDistanceAPI\GeoDistanceAPI\obj\Debug\netcoreapp1.1\GeoDistanceAPI.pdb
+C:\Users\Abubaker\Google Drive\Practice\GeoDistanceAPI\GeoDistanceAPI\obj\Debug\netcoreapp1.1\GeoDistanceAPI.csprojResolveAssemblyReference.cache

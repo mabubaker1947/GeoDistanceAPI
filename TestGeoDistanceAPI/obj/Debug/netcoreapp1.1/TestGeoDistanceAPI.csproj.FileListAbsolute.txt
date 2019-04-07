@@ -1,0 +1,14 @@
+C:\Users\Abubaker\Google Drive\Practice\GeoDistanceAPI\TestGeoDistanceAPI\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Abubaker\Google Drive\Practice\GeoDistanceAPI\TestGeoDistanceAPI\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Abubaker\Google Drive\Practice\GeoDistanceAPI\TestGeoDistanceAPI\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Abubaker\Google Drive\Practice\GeoDistanceAPI\TestGeoDistanceAPI\bin\Debug\netcoreapp1.1\TestGeoDistanceAPI.deps.json
+C:\Users\Abubaker\Google Drive\Practice\GeoDistanceAPI\TestGeoDistanceAPI\bin\Debug\netcoreapp1.1\TestGeoDistanceAPI.runtimeconfig.json
+C:\Users\Abubaker\Google Drive\Practice\GeoDistanceAPI\TestGeoDistanceAPI\bin\Debug\netcoreapp1.1\TestGeoDistanceAPI.runtimeconfig.dev.json
+C:\Users\Abubaker\Google Drive\Practice\GeoDistanceAPI\TestGeoDistanceAPI\bin\Debug\netcoreapp1.1\TestGeoDistanceAPI.dll
+C:\Users\Abubaker\Google Drive\Practice\GeoDistanceAPI\TestGeoDistanceAPI\bin\Debug\netcoreapp1.1\TestGeoDistanceAPI.pdb
+C:\Users\Abubaker\Google Drive\Practice\GeoDistanceAPI\TestGeoDistanceAPI\bin\Debug\netcoreapp1.1\GeoDistanceAPI.dll
+C:\Users\Abubaker\Google Drive\Practice\GeoDistanceAPI\TestGeoDistanceAPI\bin\Debug\netcoreapp1.1\GeoDistanceAPI.pdb
+C:\Users\Abubaker\Google Drive\Practice\GeoDistanceAPI\TestGeoDistanceAPI\obj\Debug\netcoreapp1.1\TestGeoDistanceAPI.csprojResolveAssemblyReference.cache
+C:\Users\Abubaker\Google Drive\Practice\GeoDistanceAPI\TestGeoDistanceAPI\obj\Debug\netcoreapp1.1\TestGeoDistanceAPI.AssemblyInfo.cs
+C:\Users\Abubaker\Google Drive\Practice\GeoDistanceAPI\TestGeoDistanceAPI\obj\Debug\netcoreapp1.1\TestGeoDistanceAPI.dll
+C:\Users\Abubaker\Google Drive\Practice\GeoDistanceAPI\TestGeoDistanceAPI\obj\Debug\netcoreapp1.1\TestGeoDistanceAPI.pdb
