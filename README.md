@@ -13,12 +13,13 @@ Application receives this information as input and returns the distance between 
 
 
 # PostMan Invocation:
+As you run the application in IIS Express or Google Chrome it would be running on a port that is made available by OS: for-example port 63234 was made available for me by my OS at the time of development.
 http://localhost:63234/api/Geodistanceapi
 
-and pass the body as :
+and pass the body as a JSON object in a POST request:
 
 {  
-	"locationA":{"Latitude": 53.297975,  "Longitude": -6.372663},
+   "locationA":{"Latitude": 53.297975,  "Longitude": -6.372663},
    "locationB":{"Latitude": 41.385101,  "Longitude": -81.440440}
 }
 
